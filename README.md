@@ -6,11 +6,15 @@ The company V.Isualize tasked me and my colleague Omar to look into how ride-sha
 # Results
 As expected most of the rides occurred in the urban areas, followed by the suburban areas, with the fewest occurring in rural areas. Similarly, the majority of drivers were located in urban cities, with the fewest in rural regions. Likewise, the urban areas had the greatest amount of fares in U.S. dollars, while rural towns had the lowest.
 
-This trend is reversed when measuring average fare prices. Because urban areas have larger populations, the average fare price per driver and fare price per ride were the lowest in such population clusters while the prices were highest in rural areas with relatively smaller populations. T
+# Figure 1
+
+This trend is reversed when measuring average fare prices. Because urban areas have larger populations, the average fare price per driver and fare price per ride were the lowest in such population clusters while the prices were highest in rural areas with relatively smaller populations. 
+
+# Figure 2
 
 Looking at the weekly trends over time, it is noteworthy that the urban and suburban patterns began with a similar spike in the early weeks of January, while rural areas plummeted. However, both of these city types showed an opposite correlation in the month of April. Also notable is that all city types seemed to spike toward the end of February. Both urban and rural areas exhibited an upward trend in the opening weeks of April.
 
-## Figure 1
+## Figure 3
 
 ![analysisfig.png](analysisfig.png)
 
