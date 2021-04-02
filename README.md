@@ -10,6 +10,10 @@ This trend is reversed when measuring average fare prices. Because urban areas h
 
 Looking at the weekly trends over time, it is noteworthy that the urban and suburban patterns began with a similar spike in the early weeks of January, while rural areas plummeted. However, both of these city types showed an opposite correlation in the month of April. Also notable is that all city types seemed to spike toward the end of February. Both urban and rural areas exhibited an upward trend in the opening weeks of April.
 
+## Figure 1
+
+![analysisfig.png](analysisfig.png)
+
 
 
 # Summary
